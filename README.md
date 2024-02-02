@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Larry 👋👨‍💻
 
+## Find me around 🌎
 <!--
 **larryhui7/larryhui7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
