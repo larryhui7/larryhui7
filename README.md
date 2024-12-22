@@ -6,9 +6,10 @@ I am pursuing my B.S. in Mechanical Engineering and (hopefully) EECS at UC Berke
   - **[MEC ENG 108: Mechanical Behavior of Engineering Materials](https://classes.berkeley.edu/content/2024-fall-meceng-108-001-lec-001)** with [Robert O. Ritchie](https://me.berkeley.edu/people/robert-o-ritchie/)
   - **[MEC ENG 103: Experimentation and Measurements](https://classes.berkeley.edu/content/2024-fall-meceng-103-001-lec-001)** with Professor [Hayden K. Taylor](https://me.berkeley.edu/people/hayden-taylor/)
   - **[EECS 127: Optimization Models in Engineering](https://classes.berkeley.edu/content/2024-fall-eecs-127-001-lec-001)** with Professor [Somayeh Sojoudi](https://people.eecs.berkeley.edu/~sojoudi/)
-  - **[EL ENG 120: Signals and Systems](https://classes.berkeley.edu/content/2024-fall-eleng-120-001-lec-001)** with Professor [Kannan Ramchandaran](https://people.eecs.berkeley.edu/~kannanr/)
+  - **[EL ENG 120: Signals and Systems](https://classes.berkeley.edu/content/2024-fall-eleng-120-001-lec-001)** with Professor [Kannan Ramchandran](https://people.eecs.berkeley.edu/~kannanr/)
   - **[DATA 88E: Economic Models](https://data88e.org/)** with [Dr. Eric Van Dusen](https://cdss.berkeley.edu/people/eric-van-dusen)
-- 👨‍💻 For engineering implementation (Controls, IP, CVX, FEMLAB, etc.) I often use `.m`, `.slx`, and `.py` but am versed in `.java`, and `.cpp`
+  - **[MUSIC 168CS: Piano/Fortepiano Performance Studio](https://classes.berkeley.edu/content/music-168cs)** with Professor [Jeffrey R. Sykes](https://music.berkeley.edu/people/jeffrey-sykes?page=1)
+- 👨‍💻 For engineering implementation (Controls, Image Processing, Statistics, CVX, FEMLAB, etc.) I often use `.m`, `.slx`, and `.py` but am versed in `.java`, `.tex`, and `.cpp`
 
 To see what I'm up to (or previous projects) you should look at the following or email me:
 - larryhui7.github.io
