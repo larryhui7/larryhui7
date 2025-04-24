@@ -8,8 +8,6 @@ I am pursuing my B.S. in Mechanical Engineering and (hopefully) EECS at UC Berke
   - **[MEC ENG 104: Engineering Mechanics II](https://classes.berkeley.edu/content/2025-spring-meceng-104-001-lec-001)** taught by Professor [David J. Steigmann](https://me.berkeley.edu/people/david-steigmann/)
   - **[MEC ENG C180: Engineering Analysis using the Finite Element Method](https://classes.berkeley.edu/content/2025-spring-meceng-c180-001-lec-001)** taught by Professor [Tarek I. Zohdi](https://me.berkeley.edu/people/tarek-i-zohdi/)
   - **[MEC ENG 151B/250B: Convective Transport and Computational Methods](https://classes.berkeley.edu/content/2025-spring-meceng-151b-001-lec-001)** taught by Professor [Van P. Carey](https://me.berkeley.edu/people/van-p-carey/)
-  - **[MEC ENG 163/263Z: Engineering Aerodynamics](https://classes.berkeley.edu/content/2025-spring-meceng-163-001-lec-001)** taught by Professor [Ömer Savaş](https://me.berkeley.edu/people/omer-savas/)
-  - **[MEC ENG 280B: Finite Element Methods in Nonlinear Continua](https://classes.berkeley.edu/content/2025-spring-meceng-280b-001-lec-001)** taught by Professor [Panayiotis Papadopoulos](https://me.berkeley.edu/people/panayiotis-papadopoulos/)
 
 - 👨‍💻 For engineering implementation (Controls, Image Processing, Statistics, CVX, FEMLAB, etc.) I often use `.m`, `.slx`, and `.py` but am versed in `.java`, `.tex`, and `.cpp`
 
