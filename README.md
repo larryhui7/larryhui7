@@ -14,4 +14,4 @@ I am pursuing my B.S. in Mechanical Engineering and (hopefully) EECS at UC Berke
 To see what I'm up to (or previous projects) you should look at the following or email me:
 - larryhui7.github.io
 - [https://www.linkedin.com/in/larryhui7/](https://www.linkedin.com/in/larryhui7/)
-- Email me at: [larryhui7@gmail.com](larryhui7@gmail.com)
+- Email me at: [larryhui7@berkeley.edu](larryhui7@berkeley.edu)
