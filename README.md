@@ -6,6 +6,6 @@ I just graduated from UC Berkeley with a B.S. in Mechanical Engineering and am s
 
 To see what I'm up to (or previous projects) you should look at the following or email me:
 - [https://larryhui7.github.io/](https://larryhui7.github.io/)
-- [https://scholar.google.com/citations?user=spIEKAQAAAAJ&hl=en]([https://larryhui7.github.io/](https://scholar.google.com/citations?user=spIEKAQAAAAJ&hl=en))
+- [https://scholar.google.com/citations?user=spIEKAQAAAAJ&hl=en](https://scholar.google.com/citations?user=spIEKAQAAAAJ&hl=en)
 - [https://www.linkedin.com/in/larryhui7/](https://www.linkedin.com/in/larryhui7/)
 - Email me at: [larryhui@seas.upenn.edu](larryhui@seas.upenn.edu)
